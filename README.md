@@ -78,9 +78,9 @@ endmodule
 
  **Logic symbol & Truthtable**
 <img width="1600" height="897" alt="WhatsApp Image 2026-08-13 at 10 51 41 AM" src="https://github.com/user-attachments/assets/a858f48c-16e5-4d71-aeb3-f04236f1d7d6" />
-
-
 **RTL realization Output:** **RTL**
+
+
 <img width="798" height="632" alt="WhatsApp Image 2026-08-13 at 10 51 41 AM (1)" src="https://github.com/user-attachments/assets/a23a8ee7-e2f4-4c30-87a5-de656c316187" />
 
 
