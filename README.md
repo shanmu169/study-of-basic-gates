@@ -77,11 +77,11 @@ endmodule
  RegisterNumber: 212225040401
 
  **Logic symbol & Truthtable**
-<img width="1600" height="897" alt="WhatsApp Image 2026-08-13 at 10 51 41 AM" src="https://github.com/user-attachments/assets/a858f48c-16e5-4d71-aeb3-f04236f1d7d6" />
+<img width="1916" height="1015" alt="image" src="https://github.com/user-attachments/assets/a0556c9e-7a86-4e61-aa01-2dc480a8f3fd" />
+
 **RTL realization Output:** **RTL**
 
-
-<img width="798" height="632" alt="WhatsApp Image 2026-08-13 at 10 51 41 AM (1)" src="https://github.com/user-attachments/assets/a23a8ee7-e2f4-4c30-87a5-de656c316187" />
+<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/b958eb2b-33bd-43d6-b5cf-02cf66f97bd4" />
 
 
 **Result:**
